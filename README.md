@@ -1,2 +1,2 @@
 # Download-Image-HTTP-Delphi
-Download Image menggunakan indy http pada Delphi 2010
+Download Image menggunakan indy http pada Delphi 2007
